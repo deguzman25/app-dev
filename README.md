@@ -17,5 +17,4 @@ My first repository
 3. **Steve Harrington** - The fan-favorite mentor and protector.
 4. **Jim Hopper** - The dedicated chief of police in Hawkins.
 ---
-## 💬 Favorite Quote
-> *"Friends don't lie."* — Eleven
+
